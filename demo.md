@@ -1,1 +1,1 @@
-[Click] (https://github.com/chhagundeep)
+[Click](https://github.com/chhagundeep)
