@@ -1,4 +1,4 @@
-
+## PROGRAM 4: Write a program to do different operaters on variables
 ```
 #include<stdio.h>
 int main()
@@ -15,11 +15,11 @@ printf("A and B = %d (Remainder operator)\n",a%b);
 return 0;
 }
 ```
-Output:<pre>A = 60
+**Output:<pre>A = 60
  B = 10
 
 A + B = 70 (Addition operator)
 A - B = 50 (Subtraction operator)
 A * B = 600 (Multiplication  operator)
 A / B = 6 (Division operator)
-A % B = 0 (Remainder operator) 
+A % B = 0 (Remainder operator)**
