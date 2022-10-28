@@ -20,4 +20,6 @@ Output:<pre>A = 60
 
 A + B = 70 (Addition operator)
 A - B = 50 (Subtraction operator)
-A * B = 6
+A * B = 600 (Multiplication  operator)
+A / B = 6 (Division operator)
+A % B = 0 (Remainder operator) 
