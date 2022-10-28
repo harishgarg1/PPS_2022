@@ -15,7 +15,7 @@ printf("A and B = %d (Remainder operator)\n",a%b);
 return 0;
 }
 ```
-**Output:<pre>A = 60
+**Output:A = 60
  B = 10
 
 A + B = 70 (Addition operator)
