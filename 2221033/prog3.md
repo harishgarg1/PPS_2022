@@ -10,4 +10,4 @@ printf("numder= %d",a);
 return 0;
 }
 ```
-**Output: enter an interger=4 :number=4**
+**Output: enter an interger=4 --- number=4**
