@@ -1,4 +1,4 @@
-## Program 4: Write a program for if else statement
+## Program 5: Write a program for if else statement
 ```
 #include <stdio.h>
 int main ()
@@ -11,5 +11,10 @@ else printf("%d is odd\n",x);
 return 0;
 }
 ```
-**Output: Enter a number: 20 is even; 
-Enter a number: 15 is odd**
+**Output:**
+``` 
+Enter a number: 20 
+20 is even
+Enter a number: 15 
+15 is odd
+```
