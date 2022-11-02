@@ -16,8 +16,8 @@ return 0;
 }
 ```
 **Output: A = 60, B = 10 ---
-A + B = 70 (Addition operator)
-A - B = 50 (Subtraction operator)
-A * B = 600 (Multiplication  operator)
-A / B = 6 (Division operator)
+A + B = 70 (Addition operator) ---
+A - B = 50 (Subtraction operator) --- 
+A * B = 600 (Multiplication  operator) ---
+A / B = 6 (Division operator) ---
 A % B = 0 (Remainder operator)**
