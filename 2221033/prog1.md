@@ -3,8 +3,8 @@
 #include<stdio.h>
 int main()
 {
-printf("hello world");
+printf("Hello world");
 return 0;
 }
 ```
-**Output: hello world**
+**Output: Hello world**
