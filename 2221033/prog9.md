@@ -1,4 +1,4 @@
-### Program 9:Write a program to show the use of dowhile loop
+### Program 9 : Write a program to show the use of do-while loop
 ```
 #include <stdio.h>
 int main ()
@@ -14,3 +14,11 @@ return 0;
 }
 ```
 **OUTPUT**
+```
+5
+6
+7
+8
+9
+10
+```
