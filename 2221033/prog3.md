@@ -12,6 +12,6 @@ return 0;
 ```
 **Output:**
 ```
-Enter an interger=4 
+Enter an interger:4 
 Number=4
 ```
